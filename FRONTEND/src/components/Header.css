@@ -1,0 +1,26 @@
+/*
+Fecha: 2025-08-18 20:30:23
+Descripción: Estilos específicos del Header (hero con imagen de fondo).
+Funcionalidad: Fondo, overlay y diseño del bloque de bienvenida.
+Conecta: Es usado por Header.jsx exclusivamente.
+Notas: Solo comentarios añadidos.
+*/
+.header-hero {
+  position: relative;
+  height: 250px;
+  border-radius: 0.5rem;
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+  color: white;
+}
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+  text-align: center;
+}
