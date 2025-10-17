@@ -1,6 +1,6 @@
-# Pizzería Mamma Mía — Hito 7
+# Pizzería Mamma Mía — Hito 8
 
-Proyecto Vite + React que cumple con los requerimientos del Hito 6:
+Proyecto Vite + React que cumple con los requerimientos del Hito 8:
 
 Para probar:
 
